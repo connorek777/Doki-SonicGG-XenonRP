@@ -1,0 +1,82 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>bkr_id1_04_strm_0.ymap</Item>
+    <Item>bkr_id1_06.ymap</Item>
+    <Item>bkr_id1_06_long_0.ymap</Item>
+    <Item>bkr_id1_06_strm_0.ymap</Item>
+    <Item>bkr_id1_07_critical_0.ymap</Item>
+    <Item>bkr_id1_07_long_0.ymap</Item>
+    <Item>bkr_id1_07_strm_0.ymap</Item>
+    <Item>bkr_id1_18.ymap</Item>
+    <Item>bkr_id1_18_critical_0.ymap</Item>
+    <Item>bkr_id1_18_long_0.ymap</Item>
+    <Item>bkr_id1_18_strm_0.ymap</Item>
+    <Item>bkr_id1_rd_critical_1.ymap</Item>
+    <Item>bkr_id1_rd_long_0.ymap</Item>
+    <Item>bkr_id1_rd_long_1.ymap</Item>
+    <Item>bkr_id1_rd_strm_2.ymap</Item>
+    <Item>bkr_id1_rd_strm_7.ymap</Item>
+    <Item>hei_ch3_01.ymap</Item>
+    <Item>hei_ch3_01_critical_7.ymap</Item>
+    <Item>hei_ch3_01_long_1.ymap</Item>
+    <Item>hei_ch3_01_strm_2.ymap</Item>
+    <Item>hei_cs2_08_strm_2.ymap</Item>
+    <Item>hei_po1_04_critical_0.ymap</Item>
+    <Item>hei_po1_04_long_0.ymap</Item>
+    <Item>hei_po1_04_strm_2.ymap</Item>
+    <Item>hei_po1_04_strm_4.ymap</Item>
+    <Item>hei_po1_rd_long_0.ymap</Item>
+    <Item>id1_18_strm_0.ymap</Item>
+    <Item>lr_cs4_02_strm_8.ymap</Item>
+    <Item>lr_cs4_05.ymap</Item>
+    <Item>lr_cs4_05_critical_0.ymap</Item>
+    <Item>lr_cs4_05_long_0.ymap</Item>
+    <Item>lr_cs4_05_strm_0.ymap</Item>
+    <Item>lr_cs4_05_strm_1.ymap</Item>
+    <Item>lr_cs6_03_critical_0.ymap</Item>
+    <Item>lr_cs6_03_long_0.ymap</Item>
+    <Item>lr_cs6_03_strm_2.ymap</Item>
+    <Item>lr_cs6_05.ymap</Item>
+    <Item>lr_cs6_05_strm_1.ymap</Item>
+    <Item>lr_cs6_roads_critical_0.ymap</Item>
+    <Item>lr_cs6_roads_strm_1.ymap</Item>
+    <Item>shoot_propy.ymap</Item>
+    <Item>xenondoki.ymap</Item>
+    <Item>xenon_gzdino.ymap</Item>
+    <Item>xenon_gzdoki.ymap</Item>
+    <Item>xenon_gzmiasto.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>xenon_huan.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>bkr_id1_06_0.ybn</Item>
+    <Item>bkr_id1_07_1.ybn</Item>
+    <Item>cs6_roads_11.ybn</Item>
+    <Item>hi@bkr_id1_06_0.ybn</Item>
+    <Item>id1_18_0.ybn</Item>
+    <Item>id1_rd_0.ybn</Item>
+    <Item>id1_rd_8.ybn</Item>
+    <Item>lr_cs6_03_0.ybn</Item>
+    <Item>po1_rd_0.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames>
+    <Item>cypress_flats.ymt</Item>
+  </ScenarioFilenames>
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>id1_06_structures2.ydr</Item>
+    <Item>id1_06_structures3.ydr</Item>
+    <Item>id1_18_ground.ydr</Item>
+    <Item>po1_rd_bork.ydr</Item>
+    <Item>xenon_baricade.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
